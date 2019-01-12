@@ -1,0 +1,11 @@
+h1 {color:red;}
+.mapboxgl-map {
+  height: 100vh!important;
+  width: 100vw!important;
+  position: absolute;
+}
+
+ form {
+    z-index: 999;
+    position: absolute;
+}
